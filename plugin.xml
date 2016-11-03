@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<plugin id="https://github.com/mnill/cordova-plugin-cocoapods-support.git" version="1.2.10" xmlns="http://apache.org/cordova/ns/plugins/1.0">
+<plugin id="https://github.com/mnill/cordova-plugin-cocoapods-support" version="1.2.10" xmlns="http://apache.org/cordova/ns/plugins/1.0">
     <name>Cordova CocoaPods Dependency Support</name>
     <author>Carlos "blakgeek" Lawton</author>
     <description>A Cordova/PhoneGap plugin to add support for CocoaPods dependencies.</description>
